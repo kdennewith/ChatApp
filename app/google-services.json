@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692364366034",
+    "project_id": "signinout-8a87b",
+    "storage_bucket": "signinout-8a87b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692364366034:android:681f88693cfd1c7fe55d0b",
+        "android_client_info": {
+          "package_name": "com.example.signinoutlab4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx3GhqZMTyGTOh1NC8QOUMly-XVBxFneI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
